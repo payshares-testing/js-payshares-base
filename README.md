@@ -1,4 +1,4 @@
-# JS Stellar Base
+# JS Payshares Base
 
 [![Build Status](https://travis-ci.com/stellar/js-stellar-base.svg?branch=master)](https://travis-ci.com/stellar/js-stellar-base)
 [![Code Climate](https://codeclimate.com/github/stellar/js-stellar-base/badges/gpa.svg)](https://codeclimate.com/github/stellar/js-stellar-base)
